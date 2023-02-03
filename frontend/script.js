@@ -126,7 +126,15 @@ function verifGagne(){
 
 
 
+let recommencer = document.querySelector('#recommencer')
+recommencer.addEventListener('click', () => {
+     etatJeu = ["","","",
+    "","","",
+    "","",""],
+     jeuActif = true;
+     joueurActif = "X"
 
+})
 
 // const recommencer = () => {
 

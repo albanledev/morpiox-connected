@@ -13,6 +13,7 @@ h1
  
     width: 80%;
     margin: auto;
+    /* transform: rotate(90deg); */
 }
 
 .case{
@@ -22,6 +23,7 @@ h1
     text-align: center;
     line-height:150px;
     font-size: 5em;
+    
 }
 
 
