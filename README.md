@@ -17,7 +17,7 @@ npm install
 
 ### How to install the breadboard
 
-(:sparkles:SCHÉMA A POSER ICI:sparkles:)
+![schéma](https://user-images.githubusercontent.com/62966556/216595794-98d04318-5346-4768-be31-4ff595626275.png)
 
 When you have finished installing the breadboard
 ```
@@ -37,3 +37,4 @@ cd micropython
 ### :sparkles: Tic-Tac-Toe Web App + Server creation + script for the breadboard
 - [@BDeniss](https://github.com/BDenisss) 
 - [@albanledev](https://github.com/albanledev) 
+
