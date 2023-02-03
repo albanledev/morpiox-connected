@@ -10,6 +10,9 @@
 Welcome to our connected tic-tac-toe project! We used Express.js, Cors, HTTP technologies to develop our web application. On the electronics side, we chose to use a Raspberry Pi Pico to connect the game to the internet. 
 This README will provide you with all the information you need to install and use our project. We hope you enjoy our work as much as we enjoyed developing it!
 
+## :iphone:Presentation 
+Link video : https://youtube.com/shorts/IFbK24gnaYM?feature=share
+
 ## :rocket:Installation
 ```
 npm install 
