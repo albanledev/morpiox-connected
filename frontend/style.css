@@ -1,0 +1,49 @@
+h1
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.grille
+{
+    display: grid;
+    grid-template-columns: repeat(3,150px);
+    /* grid-template-rows: 300px auto 1fr; */
+    justify-content: center;
+ 
+    width: 80%;
+    margin: auto;
+}
+
+.case{
+    border: 3px solid black;
+    /* width: 400px; */
+    height: 150px;
+    text-align: center;
+    line-height:150px;
+    font-size: 5em;
+}
+
+
+h2,button{
+    text-align: center;
+}
+
+button
+{
+    width: fit-content;
+    margin-top: 20px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.green{
+    color: green;
+}
+
+.red {
+    color: red;
+}
